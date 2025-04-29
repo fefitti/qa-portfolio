@@ -5,20 +5,35 @@ Aqui você encontra exemplos de testes manuais, testes automatizados, relatório
 ##  🚀 Estrutura do projeto
 
 **qa-portfolio/**
+
 ├── README.md
+
 ├── testes-automatizados/
+
 │   ├── robot-framework/
+
 │   │   ├── exemplo-teste-robot.robot
+
 │   ├── playwright/
+
 │   │   ├── exemplo-teste-playwright.spec.ts
+
 ├── testes-manuais/
+
 │   ├── plano-de-teste-exemplo.md
+
 │   ├── caso-de-teste-exemplo.md
+
 ├── bug-reports/
+
 │   ├── exemplo-bug-report.md
+
 ├── conhecimentos-gerais/
+
 │   ├── fundamentos-qa.md
+
 │   ├── tipos-de-teste.md
+
 │   ├── bdd-exemplo.feature
 
 ## 🧪 O que você vai encontrar aqui
@@ -33,8 +48,11 @@ Aqui você encontra exemplos de testes manuais, testes automatizados, relatório
 
 ## 🛠 Tecnologias utilizadas
 Robot Framework
+
 Playwright
+
 Markdown
+
 Linguagem Gherkin (para BDD)
 
 ## 🎯 Objetivo do portfólio
